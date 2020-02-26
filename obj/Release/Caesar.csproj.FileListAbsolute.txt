@@ -1,0 +1,9 @@
+E:\repos\Caesar\Caesar\Caesar\bin\Release\Caesar.exe.config
+E:\repos\Caesar\Caesar\Caesar\bin\Release\Caesar.exe
+E:\repos\Caesar\Caesar\Caesar\bin\Release\Caesar.pdb
+E:\repos\Caesar\Caesar\Caesar\obj\Release\Caesar.csprojAssemblyReference.cache
+E:\repos\Caesar\Caesar\Caesar\obj\Release\Caesar.MainForm.resources
+E:\repos\Caesar\Caesar\Caesar\obj\Release\Caesar.Properties.Resources.resources
+E:\repos\Caesar\Caesar\Caesar\obj\Release\Caesar.csproj.GenerateResource.cache
+E:\repos\Caesar\Caesar\Caesar\obj\Release\Caesar.exe
+E:\repos\Caesar\Caesar\Caesar\obj\Release\Caesar.pdb
